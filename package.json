@@ -1,7 +1,8 @@
 {
   "name": "falafel-turbo",
   "description": "transform the ast on a recursive walk",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "homepage":"https://bitbucket.org/dexterjs/falafel-turbo",
   "repository": {
     "type": "git",
     "url": "https://Inian@bitbucket.org/dexterjs/falafel-turbo.git"
